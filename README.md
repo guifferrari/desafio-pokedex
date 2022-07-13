@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Gif
 
-[<img src="./src/images/gif-pokedex.gif" alt="gif da tela inicial do projeto pokédex, em duas resoluções.">](https://guifferrari.github.io/desafio-pokedex/)
+[<img src="./src/imagens/gif-pokedex.gif" alt="gif da tela inicial do projeto pokédex, em duas resoluções.">](https://guifferrari.github.io/desafio-pokedex/)
 
 # Click the icon at the top right corner of the gif to check the project's github page
 
